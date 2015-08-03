@@ -26,7 +26,6 @@
 		{
 			$Config = Json::Decode('config/CPanelBackupper.json');
 
-
 			if($Config === false)
 				throw new Exception("config/CPanelBackupper.json isn't readable");
 
