@@ -1,4 +1,4 @@
-# CPanel-Cron-Backups
+# CPanel-Backupper
 Automatic CPanel backup tool.
 
 ## Usage
