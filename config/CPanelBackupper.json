@@ -1,0 +1,16 @@
+{
+	"Scheme":"http://",
+	"Hostname":"localhost",
+	"Port":2086,
+	"Username":"YourUser",
+	"AccessHashPath":"/home/YourUser/.accesshash",
+	"FTP":
+	{
+		"Hostname":"Your FTP Host",
+		"Port":21,
+		"Username":"Your FTP User",
+		"Password":"Your FTP Password",
+		"Directory":"FTP Directory (Usually '/')"
+	},
+	"Email":"YourNotificationEmail@domain.tld"
+}
