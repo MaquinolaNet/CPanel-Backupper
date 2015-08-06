@@ -17,7 +17,7 @@
 		$Backups = $CPanelBackupper->Backup();
 
 		foreach($Backups as $Username => $Success)
-			Std::Out("    {$Username} = " . var_export($Success));
+			Std::Out("    {$Username} = " . var_export($Success, true));
 	}
 	catch(Exception $Exception)
 	{
